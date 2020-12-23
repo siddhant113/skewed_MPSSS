@@ -6,12 +6,16 @@ Mansi, Purva, Shanu, Shikha & Siddhant
 Banking & Finance
 
 #Problem Statement:
+Under discussion
 
 #Reference published work:
+--
 
 #Data:
+--
 
-#Software:
+#Software: 
+Preferably Python
 
 #Stats/OR techniques:
-
+--
