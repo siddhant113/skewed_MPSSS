@@ -9,13 +9,11 @@ Banking & Finance
 Under discussion
 
 #Reference published work:
---
+
 
 #Data:
---
 
 #Software: 
 Preferably Python
 
 #Stats/OR techniques:
---
